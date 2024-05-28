@@ -1,0 +1,7 @@
+select = ["B", "E", "F", "I"]
+exclude = []
+# flake8-bugbear, pyflakes, pycodestyle, isort
+# Never enforce `E501` (line length violations).
+ignore = ["E501"]
+
+[per-file-ignores]
