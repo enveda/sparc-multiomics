@@ -2,6 +2,10 @@
 
 This repository details the steps needed to reproduce the analysis described in the publication:
 
+<p align="center">
+  <img src="figures/overview.png"/>
+</p>
+
 ## Table of Contents
 
 * [Citation](#citation)
