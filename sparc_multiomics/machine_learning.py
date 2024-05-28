@@ -2,7 +2,6 @@ import random
 
 import numpy as np
 import pandas as pd
-from sparc_multiomics.constants import RANDOM_SEED
 from sklearn.metrics import (
     accuracy_score,
     confusion_matrix,
@@ -13,6 +12,8 @@ from sklearn.metrics import (
 )
 from sklearn.model_selection import GridSearchCV, StratifiedKFold
 from sklearn.preprocessing import StandardScaler
+
+from sparc_multiomics.constants import RANDOM_SEED
 
 random.seed(RANDOM_SEED)
 

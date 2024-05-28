@@ -1,4 +1,5 @@
 import gseapy
+
 from sparc_multiomics.MOFA_toolset import readable_features_naming
 from sparc_multiomics.plotting import cleaner_barplot
 

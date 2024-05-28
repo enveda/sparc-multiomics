@@ -7,7 +7,6 @@ import matplotlib.patches as mpatches
 import numpy as np
 import pandas as pd
 import seaborn as sns
-from sparc_multiomics.constants import RANDOM_SEED
 from matplotlib import pyplot as plt
 from matplotlib_venn import venn3
 from sklearn.decomposition import PCA
@@ -15,6 +14,8 @@ from sklearn.manifold import TSNE
 from sklearn.metrics import silhouette_score
 from statannotations.Annotator import Annotator
 from umap import UMAP
+
+from sparc_multiomics.constants import RANDOM_SEED
 
 random.seed(RANDOM_SEED)
 np.random.seed(RANDOM_SEED)
