@@ -22,7 +22,7 @@ This repository details the steps needed to reproduce the analysis described in 
 
 ## Citation
 
-**Leveraging multi-omics data for precision medicine and biomarker discovery in inflammatory bowel disease**, *António José Preto*, *Shaurya Chanana*, *Daniel Ence*, *Daniel Domingo-Fernández*, *Kiana West*, 2024
+**Leveraging multi-omics data for precision medicine and biomarker discovery in inflammatory bowel disease**, *António José Preto*, *Shaurya Chanana*, *Daniel Ence*, *Daniel Domingo-Fernández*, *Kiana West*, Journal of Chron's and Colitis, 2024
 
 ## Setup
 When replicating the project, we are unable to disclose the real data, as it was provided by the [Chron's and Colitis Foundation](https://www.crohnscolitisfoundation.org/) and is not open source. In such cases, we will indicate in the notebook and proceed with the code considering the starting and end points of the process.
